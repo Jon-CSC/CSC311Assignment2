@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Halo Infinite",
+        "price": 59.99,
+        "esrb": "Teen"
+    },
+    {
+        "title": "Deathloop",
+        "price": 59.88,
+        "esrb": "Mature"
+    },
+    {
+        "title": "Inscryption",
+        "price": 19.99,
+        "esrb": "Mature"
+    },
+    {
+        "title": "Civilization 6 Platinum",
+        "price": 79.99,
+        "esrb": "Everyone 10+"
+    },
+    {
+        "title": "Minecraft Dungeons",
+        "price": 23.99,
+        "esrb": "Everyone 10+"
+    }
+]
